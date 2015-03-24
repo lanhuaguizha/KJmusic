@@ -4,11 +4,10 @@ KJmusic
 KJ音乐是一个Android手机端音乐播放器，最低支持3.0版本。
 
 ## KJmusic 相关链接
-* blog：http://my.oschina.net/kymjs/blog<br>
+* blog：http://blog.kymjs.com<br>
 * QQ群：[257053751](http://jq.qq.com/?_wv=1027&k=WoM2Aa)(开发者群1)，[201055521](http://jq.qq.com/?_wv=1027&k=MBVdpK)(开发者群2)
 * OSC GIT项目地址：[http://git.oschina.net/kymjs/KJmusic](http://git.oschina.net/kymjs/KJmusic)
 
-如你希望通过源码学习，请先查看[KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)开发框架用法
 启动Eclipse，点击菜单并导入Android客户端项目，请确保你当前的Android SDK是最新版。<br>
 如果编译出错，请修改项目根目录下的 project.properties 文件。<br>
 推荐使用Android 4.0 以上版本的SDK,请使用JDK1.6编译：
@@ -22,14 +21,6 @@ KJ音乐是一个Android手机端音乐播放器，最低支持3.0版本。
 
 ## 授权协议
 本项目采用 GPL v2授权协议:<br>
-GPLV2协议说明：GPL协议的主要内容是只要在一个软件中使用(“使用”指类库引用，修改后的代码或者衍生代码)GPL 协议的产品，则该软件产品必须也采用GPL协议，既必须也是开源和免费。这就是所谓的”传染性”。GPL协议的产品作为一个单独的产品使用没有任何问题，还可以享受免费的优势。<br>
-你拥有的权利:<br>
-    以任何目的运行此程序的自由;<br>
-    再发行复制件的自由;<br>
-    改进此程序，并公开发布改进的自由.<br>
-你需要注意:<br>
-                如果在发布源于GPL的软件的时候，同时添加强制的条款，以在一定程度上保障其它一些人的权益，那么将无权发布该软件。<br>
-********欢迎大家在这个基础上进行改进，并与大家分享。<br>
 
 			Copyright (C) 2014  Tao Zhang
 
