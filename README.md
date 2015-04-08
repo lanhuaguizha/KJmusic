@@ -1,5 +1,4 @@
-KJmusic
-=======
+[![OSL](http://www.kymjs.com/image/logo_s.png)](http://www.kymjs.com/)<br>
 # **KJ音乐 Android 客户端** #
 KJ音乐是一个Android手机端音乐播放器，最低支持3.0版本。
 
